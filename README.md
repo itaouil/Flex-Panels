@@ -4,7 +4,7 @@ This is project 4 of 30 mini projects using only HTML5, CSS3 and vanillaJS.
 
 The mini projects consists in creating 5 panels using Flex Box and creating some interesting animations using JavaScript. This was the result:
 
-![alt text] (https://gfycat.com/gifs/detail/NimbleJealousCrab)
+![alt text] (https://github.com/itaouil95/Flex-Panels/blob/master/flex-it.png)
 
 ### HTML
 
